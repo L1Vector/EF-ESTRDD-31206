@@ -12,6 +12,11 @@
     <Compile Remove="NewFolder2\**" />
     <EmbeddedResource Remove="NewFolder2\**" />
     <None Remove="NewFolder2\**" />
+	  
+	<Compile Remove="OXXOPOS-GUI\**\*.cs" />
+	<EmbeddedResource Remove="OXXOPOS-GUI\**\*.resx" />
+	<None Remove="OXXOPOS-GUI\**\*" />  
+	  
   </ItemGroup>
 
 </Project>
