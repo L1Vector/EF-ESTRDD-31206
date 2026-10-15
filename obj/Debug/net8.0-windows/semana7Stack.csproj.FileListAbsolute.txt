@@ -46,3 +46,5 @@ C:\Users\lvasq\Downloads\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\refi
 C:\Users\lvasq\Downloads\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\semana7Stack.pdb
 C:\Users\lvasq\Downloads\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
 C:\Users\lvasq\Downloads\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\lvasq\Downloads\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\lvasq\Downloads\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json

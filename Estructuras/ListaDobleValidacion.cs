@@ -17,18 +17,21 @@ namespace semana7Stack.Estructuras
             cabeza = null;
             cola = null;
         }
-
-        public bool agregarAlInicio(string valor)
+        int montoAPagar = SesionGlobal.CostoTotalActual;
+        public bool agregarAlInicio()
         {
+            int contador = 5000;
+            string codigo = "R" + contador.ToString();
             NodoTransaccion duplicado = cabeza;
-            NodoTransaccion nuevo = new NodoTransaccion(valor);
+            NodoTransaccion nuevo = new NodoTransaccion(codigo, montoAPagar);
             while (duplicado != null)
             {
-                if (duplicado.Valor == nuevo.Valor)
+                if (duplicado.Codigo == nuevo.Codigo)
                 {
                     return false;
                 }
                 duplicado = duplicado.Siguiente;
+                contador++;
             }
 
             if (cabeza == null)
@@ -46,39 +49,12 @@ namespace semana7Stack.Estructuras
             return true;
 
         }
-        public bool agregarAlFinal(string valor)
-        {
-            NodoTransaccion nuevo = new NodoTransaccion(valor);
-            NodoTransaccion duplicado = cabeza;
-            while (duplicado != null)
-            {
-                if (duplicado.Valor == nuevo.Valor)
-                {
-                    return false;
-                }
-                duplicado = duplicado.Siguiente;
-            }
-
-            if (cola == null)
-            {
-                cabeza = nuevo;
-                cola = nuevo;
-            }
-            else
-            {
-                cola.Siguiente = nuevo;
-                nuevo.Anterior = cola;
-                cola = nuevo;
-            }
-            return true;
-
-        }
-        public bool eliminar(string valor)
+        public bool eliminar(string codigo)
         {
             NodoTransaccion actual = cabeza;
             while (actual != null)
             {
-                if (actual.Valor == valor)
+                if (actual.Codigo == codigo)
                 {
                     //1. Cuando existe un solo nodo
                     if (cabeza == cola)
@@ -109,17 +85,6 @@ namespace semana7Stack.Estructuras
             }
             return false;
         }
-        public bool buscar(string valor)
-        {
-            NodoTransaccion busca = cabeza;
-            while (busca != null)
-            {
-                if (busca.Valor == valor)
-                { return true; }
-                busca = busca.Siguiente;
-            }
-            return false;
-        }
         public void limpiar()
         {
             cola = null;
@@ -131,7 +96,7 @@ namespace semana7Stack.Estructuras
             NodoTransaccion actual = cola;
             while (actual != null)
             {
-                elementos.Add(actual.Valor);
+                elementos.Add(actual.Codigo);
                 actual = actual.Anterior;
             }
             return elementos;
@@ -142,7 +107,7 @@ namespace semana7Stack.Estructuras
             NodoTransaccion actual = cabeza;
             while (actual != null)
             {
-                elementos.Add(actual.Valor);
+                elementos.Add(actual.Codigo);
                 actual = actual.Siguiente;
             }
             return elementos;

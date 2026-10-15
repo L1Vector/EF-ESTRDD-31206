@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\estructuras\\listadoblevalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:estructuras\\listadoblevalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\modelos\\nodotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:modelos\\nodotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\modelos\\sesionglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:modelos\\sesionglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\modelos\\nodotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:modelos\\nodotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +34,80 @@
       "DocumentGroups": [
         {
           "DockedHeight": 229,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "FormPOS.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPOS.cs",
+              "RelativeDocumentMoniker": "Vistas\\FormPOS.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPOS.cs",
+              "RelativeToolTip": "Vistas\\FormPOS.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv44AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T01:41:04.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NodoTransaccion.cs",
               "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Modelos\\NodoTransaccion.cs",
               "RelativeDocumentMoniker": "Modelos\\NodoTransaccion.cs",
               "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Modelos\\NodoTransaccion.cs",
               "RelativeToolTip": "Modelos\\NodoTransaccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T05:02:01.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T21:52:57.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "SesionGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Modelos\\SesionGlobal.cs",
+              "RelativeDocumentMoniker": "Modelos\\SesionGlobal.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Modelos\\SesionGlobal.cs",
+              "RelativeToolTip": "Modelos\\SesionGlobal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:52:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ListaDobleValidacion.cs",
               "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Estructuras\\ListaDobleValidacion.cs",
               "RelativeDocumentMoniker": "Estructuras\\ListaDobleValidacion.cs",
               "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Estructuras\\ListaDobleValidacion.cs",
               "RelativeToolTip": "Estructuras\\ListaDobleValidacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T04:58:28.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T21:52:55.979Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FormPago.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPago.cs",
+              "RelativeDocumentMoniker": "Vistas\\FormPago.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPago.cs",
+              "RelativeToolTip": "Vistas\\FormPago.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:52:50.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FormPago.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPago.cs",
               "RelativeDocumentMoniker": "Vistas\\FormPago.cs",
               "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPago.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\FormPago.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T04:56:29.306Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormPOS.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPOS.cs",
-              "RelativeDocumentMoniker": "Vistas\\FormPOS.cs",
-              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPOS.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\FormPOS.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T03:30:42.642Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormPOS.cs",
-              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPOS.cs",
-              "RelativeDocumentMoniker": "Vistas\\FormPOS.cs",
-              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPOS.cs",
-              "RelativeToolTip": "Vistas\\FormPOS.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAYwHEAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T03:30:42.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T21:52:46.525Z"
             }
           ]
         }

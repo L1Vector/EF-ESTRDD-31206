@@ -38,7 +38,7 @@
             btnPeek = new Button();
             btnContains = new Button();
             btnLimpiar = new Button();
-            button1 = new Button();
+            btnPagar = new Button();
             txtCosto = new TextBox();
             label3 = new Label();
             SuspendLayout();
@@ -58,9 +58,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(40, 116);
             label2.Name = "label2";
-            label2.Size = new Size(72, 20);
+            label2.Size = new Size(61, 20);
             label2.TabIndex = 1;
-            label2.Text = "Producto:";
+            label2.Text = "Código:";
             // 
             // txtValor
             // 
@@ -128,7 +128,7 @@
             btnContains.Name = "btnContains";
             btnContains.Size = new Size(165, 45);
             btnContains.TabIndex = 8;
-            btnContains.Text = "Cantidad de Artículos";
+            btnContains.Text = "Buscar Atrículo";
             btnContains.UseVisualStyleBackColor = true;
             btnContains.Click += btnContains_Click;
             // 
@@ -143,14 +143,15 @@
             btnLimpiar.UseVisualStyleBackColor = true;
             btnLimpiar.Click += btnLimpiar_Click;
             // 
-            // button1
+            // btnPagar
             // 
-            button1.Location = new Point(550, 486);
-            button1.Name = "button1";
-            button1.Size = new Size(165, 45);
-            button1.TabIndex = 11;
-            button1.Text = "Pagar";
-            button1.UseVisualStyleBackColor = true;
+            btnPagar.Location = new Point(550, 486);
+            btnPagar.Name = "btnPagar";
+            btnPagar.Size = new Size(165, 45);
+            btnPagar.TabIndex = 11;
+            btnPagar.Text = "Pagar";
+            btnPagar.UseVisualStyleBackColor = true;
+            btnPagar.Click += btnPagar_Click;
             // 
             // txtCosto
             // 
@@ -176,7 +177,7 @@
             ClientSize = new Size(756, 600);
             Controls.Add(label3);
             Controls.Add(txtCosto);
-            Controls.Add(button1);
+            Controls.Add(btnPagar);
             Controls.Add(btnLimpiar);
             Controls.Add(btnContains);
             Controls.Add(btnPeek);
@@ -206,7 +207,7 @@
         private Button btnPeek;
         private Button btnContains;
         private Button btnLimpiar;
-        private Button button1;
+        private Button btnPagar;
         private TextBox txtCosto;
         private Label label3;
     }

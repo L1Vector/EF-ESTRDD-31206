@@ -8,13 +8,15 @@ namespace semana7Stack.Modelos
 {
     internal class NodoTransaccion
     {
-        public NodoTransaccion(string valor)
+        public NodoTransaccion(string codigo, double pago)
         {
-            Valor = valor;
+            string Codigo = codigo;
+            double Pago = pago;
             Siguiente = null;
             Anterior = null;
         }
-        public string Valor { get; set; }
+        public string Codigo { get; set; }
+        public double Pago { get; set; }
         public NodoTransaccion Siguiente { get; set; }
         public NodoTransaccion Anterior { get; set; }
 
