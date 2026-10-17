@@ -1,29 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\estructuras\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:estructuras\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\modelos\\modulovouchers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:modelos\\modulovouchers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\estructuras\\listadoblevalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:estructuras\\listadoblevalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\modelos\\sesionglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:modelos\\sesionglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\lvasq\\downloads\\semana7stack\\semana7stack\\modelos\\nodotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\estructuras\\listadoblevalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:estructuras\\listadoblevalidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\modelos\\sesionglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:modelos\\sesionglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\user\\onedrive\\documents\\proyecto_estructuras\\ef-estrdd-31206\\modelos\\nodotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:modelos\\nodotransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -39,35 +59,112 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormPOS.cs",
-              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPOS.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\Form1.cs",
+              "RelativeDocumentMoniker": "Vistas\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\Form1.cs",
+              "RelativeToolTip": "Vistas\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T18:14:29.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T17:49:31.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Estructuras\\Voucher.cs",
+              "RelativeDocumentMoniker": "Estructuras\\Voucher.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Estructuras\\Voucher.cs",
+              "RelativeToolTip": "Estructuras\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T17:11:57.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPOS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\FormPOS.cs",
               "RelativeDocumentMoniker": "Vistas\\FormPOS.cs",
-              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPOS.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\FormPOS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\FormPOS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T17:20:26.17Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModuloVouchers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Modelos\\ModuloVouchers.cs",
+              "RelativeDocumentMoniker": "Modelos\\ModuloVouchers.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Modelos\\ModuloVouchers.cs",
+              "RelativeToolTip": "Modelos\\ModuloVouchers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T17:14:39.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPOS.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\FormPOS.cs",
+              "RelativeDocumentMoniker": "Vistas\\FormPOS.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\FormPOS.cs",
               "RelativeToolTip": "Vistas\\FormPOS.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAADwv44AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T01:41:04.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NodoTransaccion.cs",
-              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Modelos\\NodoTransaccion.cs",
-              "RelativeDocumentMoniker": "Modelos\\NodoTransaccion.cs",
-              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Modelos\\NodoTransaccion.cs",
-              "RelativeToolTip": "Modelos\\NodoTransaccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "FormPago.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\FormPago.cs",
+              "RelativeDocumentMoniker": "Vistas\\FormPago.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\FormPago.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\FormPago.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T21:52:57.39Z"
+              "WhenOpened": "2026-10-14T21:52:46.525Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "FormPago.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\FormPago.cs",
+              "RelativeDocumentMoniker": "Vistas\\FormPago.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Vistas\\FormPago.cs",
+              "RelativeToolTip": "Vistas\\FormPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:52:50.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SesionGlobal.cs",
-              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Modelos\\SesionGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Modelos\\SesionGlobal.cs",
               "RelativeDocumentMoniker": "Modelos\\SesionGlobal.cs",
-              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Modelos\\SesionGlobal.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Modelos\\SesionGlobal.cs",
               "RelativeToolTip": "Modelos\\SesionGlobal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,39 +172,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "NodoTransaccion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Modelos\\NodoTransaccion.cs",
+              "RelativeDocumentMoniker": "Modelos\\NodoTransaccion.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Modelos\\NodoTransaccion.cs",
+              "RelativeToolTip": "Modelos\\NodoTransaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T21:52:57.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ListaDobleValidacion.cs",
-              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Estructuras\\ListaDobleValidacion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Estructuras\\ListaDobleValidacion.cs",
               "RelativeDocumentMoniker": "Estructuras\\ListaDobleValidacion.cs",
-              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Estructuras\\ListaDobleValidacion.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Proyecto_Estructuras\\EF-ESTRDD-31206\\Estructuras\\ListaDobleValidacion.cs",
               "RelativeToolTip": "Estructuras\\ListaDobleValidacion.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T21:52:55.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormPago.cs",
-              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPago.cs",
-              "RelativeDocumentMoniker": "Vistas\\FormPago.cs",
-              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPago.cs",
-              "RelativeToolTip": "Vistas\\FormPago.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T21:52:50.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormPago.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPago.cs",
-              "RelativeDocumentMoniker": "Vistas\\FormPago.cs",
-              "ToolTip": "C:\\Users\\lvasq\\Downloads\\semana7Stack\\semana7Stack\\Vistas\\FormPago.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\FormPago.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T21:52:46.525Z"
             }
           ]
         }
