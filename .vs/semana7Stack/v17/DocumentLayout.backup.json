@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Fabricioo\\Documents\\Proyecto_Est.Dat\\EF-ESTRDD-31206\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|C:\\Users\\Fabricioo\\Documents\\Proyecto_Est.Dat\\EF-ESTRDD-31206\\vistas\\formgestionfalloreconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\fabricioo\\documents\\proyecto_est.dat\\ef-estrdd-31206\\vistas\\formgestionfalloreconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formgestionfalloreconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "Vistas\\FormGestionFalloReconexion.cs",
               "ToolTip": "C:\\Users\\Fabricioo\\Documents\\Proyecto_Est.Dat\\EF-ESTRDD-31206\\Vistas\\FormGestionFalloReconexion.cs",
               "RelativeToolTip": "Vistas\\FormGestionFalloReconexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIBAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T19:47:22.857Z",
+              "WhenOpened": "2026-10-18T01:47:51.255Z",
               "EditorCaption": ""
             },
             {
@@ -42,7 +42,7 @@
               "ToolTip": "C:\\Users\\Fabricioo\\Documents\\Proyecto_Est.Dat\\EF-ESTRDD-31206\\Vistas\\FormGestionFalloReconexion.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\FormGestionFalloReconexion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T18:28:43.601Z",
+              "WhenOpened": "2026-10-18T01:47:42.585Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

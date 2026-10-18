@@ -10,7 +10,7 @@ namespace semana7Stack
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormGestionFalloReconexion());
+            Application.Run(new FormPOS());
         }
     }
 }

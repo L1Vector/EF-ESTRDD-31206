@@ -7,6 +7,9 @@
     <Compile Update="Vistas\FormGestionFalloReconexion.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Vistas\FormModuloVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Vistas\FormPago.cs">
       <SubType>Form</SubType>
     </Compile>

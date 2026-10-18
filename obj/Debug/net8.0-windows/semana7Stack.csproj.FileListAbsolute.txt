@@ -17,3 +17,4 @@ C:\Users\Fabricioo\Documents\Proyecto_Est.Dat\EF-ESTRDD-31206\obj\Debug\net8.0-w
 C:\Users\Fabricioo\Documents\Proyecto_Est.Dat\EF-ESTRDD-31206\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
 C:\Users\Fabricioo\Documents\Proyecto_Est.Dat\EF-ESTRDD-31206\obj\Debug\net8.0-windows\ref\semana7Stack.dll
 C:\Users\Fabricioo\Documents\Proyecto_Est.Dat\EF-ESTRDD-31206\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\Fabricioo\Documents\Proyecto_Est.Dat\EF-ESTRDD-31206\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources

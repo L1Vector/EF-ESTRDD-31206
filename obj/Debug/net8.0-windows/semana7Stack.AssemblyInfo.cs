@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("semana7Stack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71efc8189501c393eaa3809733153bb6155d3df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8f495c72fe1122c70037f52a1deaac6fe3ea98e")]
 [assembly: System.Reflection.AssemblyProductAttribute("semana7Stack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("semana7Stack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
