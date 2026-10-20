@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\Semana7\\semana7Stack\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\semana7Stack\\semana7Stack\\semana7Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\upn\\downloads\\semana7\\semana7stack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|c:\\users\\upn\\downloads\\semana7\\semana7stack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|C:\\Users\\Usuario\\Downloads\\semana7Stack\\semana7Stack\\semana7Stack\\vistas\\formgestionfalloreconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\formgestionfalloreconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,35 +14,18 @@
       "DocumentGroups": [
         {
           "DockedHeight": 229,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\Semana7\\semana7Stack\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\Semana7\\semana7Stack\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "Title": "FormGestionFalloReconexion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\semana7Stack\\semana7Stack\\semana7Stack\\Vistas\\FormGestionFalloReconexion.cs",
+              "RelativeDocumentMoniker": "Vistas\\FormGestionFalloReconexion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\semana7Stack\\semana7Stack\\semana7Stack\\Vistas\\FormGestionFalloReconexion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\FormGestionFalloReconexion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T16:53:21.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\Semana7\\semana7Stack\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Downloads\\Semana7\\semana7Stack\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T16:41:37.396Z",
+              "WhenOpened": "2026-10-19T23:52:44.189Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

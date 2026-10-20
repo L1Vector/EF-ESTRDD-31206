@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="OxxoPOS-GUI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormGestionFalloReconexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FormModuloVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Vistas\FormPago.cs">
       <SubType>Form</SubType>
     </Compile>

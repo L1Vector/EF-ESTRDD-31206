@@ -1,9 +1,5 @@
-﻿using semana7Stack.Modelos;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using semana7Stack.Modelos;
 
 namespace semana7Stack.Estructuras
 {
@@ -12,27 +8,28 @@ namespace semana7Stack.Estructuras
         public NodoTransaccion cabeza { get; set; }
         public NodoTransaccion cola { get; set; }
 
+        private static int contadorCorrelativo = 5000;
+
         public ListaDobleValidacion()
         {
             cabeza = null;
             cola = null;
         }
-        int montoAPagar = SesionGlobal.CostoTotalActual;
-        public bool agregarAlInicio()
+
+        // Se recibe el tipo de pago seleccionado en la interfaz
+        public bool agregarAlInicio(string tipoPago)
         {
-            int contador = 5000;
-            string codigo = "R" + contador.ToString();
-            NodoTransaccion duplicado = cabeza;
-            NodoTransaccion nuevo = new NodoTransaccion(codigo, montoAPagar);
-            while (duplicado != null)
+            int montoAPagar = SesionGlobal.CostoTotalActual;
+
+            string codigoGenerado;
+            do
             {
-                if (duplicado.Codigo == nuevo.Codigo)
-                {
-                    return false;
-                }
-                duplicado = duplicado.Siguiente;
-                contador++;
+                codigoGenerado = "R" + contadorCorrelativo;
+                contadorCorrelativo++;
             }
+            while (existeCodigo(codigoGenerado));
+
+            NodoTransaccion nuevo = new NodoTransaccion(codigoGenerado, montoAPagar, tipoPago, "PENDIENTE");
 
             if (cabeza == null)
             {
@@ -41,14 +38,25 @@ namespace semana7Stack.Estructuras
             }
             else
             {
-                // Si hay un nodo con el mismo código, no se permite agregarlo y se devuelve 2
                 nuevo.Siguiente = cabeza;
                 cabeza.Anterior = nuevo;
                 cabeza = nuevo;
             }
             return true;
-
         }
+
+        private bool existeCodigo(string codigo)
+        {
+            NodoTransaccion actual = cabeza;
+            while (actual != null)
+            {
+                if (actual.Codigo == codigo)
+                    return true;
+                actual = actual.Siguiente;
+            }
+            return false;
+        }
+
         public bool eliminar(string codigo)
         {
             NodoTransaccion actual = cabeza;
@@ -56,7 +64,6 @@ namespace semana7Stack.Estructuras
             {
                 if (actual.Codigo == codigo)
                 {
-                    //1. Cuando existe un solo nodo
                     if (cabeza == cola)
                     {
                         cabeza = null;
@@ -64,13 +71,11 @@ namespace semana7Stack.Estructuras
                     }
                     else if (actual == cabeza)
                     {
-                        // 2. Cuando se elimina la cabeza
                         cabeza = cabeza.Siguiente;
                         cabeza.Anterior = null;
                     }
                     else if (actual == cola)
                     {
-                        //3. Cuando se elimina la cola
                         cola = cola.Anterior;
                         cola.Siguiente = null;
                     }
@@ -85,32 +90,11 @@ namespace semana7Stack.Estructuras
             }
             return false;
         }
+
         public void limpiar()
         {
+            cabeza = null;
             cola = null;
-            cabeza = cola;
-        }
-        public List<string> imprimirAtras()
-        {
-            List<string> elementos = new List<string>();
-            NodoTransaccion actual = cola;
-            while (actual != null)
-            {
-                elementos.Add(actual.Codigo);
-                actual = actual.Anterior;
-            }
-            return elementos;
-        }
-        public List<string> imprimirAdelante()
-        {
-            List<string> elementos = new List<string>();
-            NodoTransaccion actual = cabeza;
-            while (actual != null)
-            {
-                elementos.Add(actual.Codigo);
-                actual = actual.Siguiente;
-            }
-            return elementos;
         }
     }
 }

@@ -10,8 +10,11 @@
 
   <ItemGroup>
     <Compile Remove="NewFolder2\**" />
+    <Compile Remove="OxxoPOS-GUI\**" />
     <EmbeddedResource Remove="NewFolder2\**" />
+    <EmbeddedResource Remove="OxxoPOS-GUI\**" />
     <None Remove="NewFolder2\**" />
+    <None Remove="OxxoPOS-GUI\**" />
   </ItemGroup>
 
 </Project>

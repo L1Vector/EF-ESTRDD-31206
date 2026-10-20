@@ -41,13 +41,16 @@
             btnPagar = new Button();
             txtCosto = new TextBox();
             label3 = new Label();
+            label4 = new Label();
+            numCantidad = new NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)numCantidad).BeginInit();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(150, 30);
+            label1.Location = new Point(244, 18);
             label1.Name = "label1";
             label1.Size = new Size(291, 41);
             label1.TabIndex = 0;
@@ -67,7 +70,7 @@
             txtValor.Location = new Point(118, 113);
             txtValor.Margin = new Padding(3, 4, 3, 4);
             txtValor.Name = "txtValor";
-            txtValor.Size = new Size(195, 27);
+            txtValor.Size = new Size(194, 27);
             txtValor.TabIndex = 2;
             // 
             // lstVisualizacion
@@ -155,7 +158,7 @@
             // 
             // txtCosto
             // 
-            txtCosto.Location = new Point(393, 113);
+            txtCosto.Location = new Point(384, 113);
             txtCosto.Margin = new Padding(3, 4, 3, 4);
             txtCosto.Name = "txtCosto";
             txtCosto.Size = new Size(84, 27);
@@ -164,17 +167,35 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(337, 116);
+            label3.Location = new Point(328, 116);
             label3.Name = "label3";
             label3.Size = new Size(50, 20);
             label3.TabIndex = 13;
             label3.Text = "Costo:";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(40, 81);
+            label4.Name = "label4";
+            label4.Size = new Size(72, 20);
+            label4.TabIndex = 15;
+            label4.Text = "Cantidad:";
+            // 
+            // numCantidad
+            // 
+            numCantidad.Location = new Point(118, 79);
+            numCantidad.Name = "numCantidad";
+            numCantidad.Size = new Size(73, 27);
+            numCantidad.TabIndex = 16;
             // 
             // FormPOS
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(756, 600);
+            Controls.Add(numCantidad);
+            Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(txtCosto);
             Controls.Add(btnPagar);
@@ -191,6 +212,7 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "FormPOS";
             Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)numCantidad).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -210,5 +232,7 @@
         private Button btnPagar;
         private TextBox txtCosto;
         private Label label3;
+        private Label label4;
+        private NumericUpDown numCantidad;
     }
 }

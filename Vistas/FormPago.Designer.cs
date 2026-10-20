@@ -30,19 +30,16 @@
         {
             label1 = new Label();
             lstLista = new ListBox();
-            label2 = new Label();
-            button1 = new Button();
-            txtCódigo = new TextBox();
+            btnGenerar = new Button();
             btnCarrito = new Button();
-            btnError = new Button();
-            btnEliminar = new Button();
-            label3 = new Label();
             btnAdelante = new Button();
             btnAtras = new Button();
             btnLimpiar = new Button();
-            btnValidar = new Button();
             cbxTipo = new ComboBox();
             label4 = new Label();
+            label3 = new Label();
+            btnsimulador = new Button();
+            btnhistorial = new Button();
             SuspendLayout();
             // 
             // label1
@@ -63,67 +60,25 @@
             lstLista.Size = new Size(257, 264);
             lstLista.TabIndex = 1;
             // 
-            // label2
+            // btnGenerar
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(33, 122);
-            label2.Name = "label2";
-            label2.Size = new Size(65, 20);
-            label2.TabIndex = 2;
-            label2.Text = "Código: ";
-            // 
-            // button1
-            // 
-            button1.Location = new Point(329, 155);
-            button1.Name = "button1";
-            button1.Size = new Size(153, 44);
-            button1.TabIndex = 3;
-            button1.Text = "Registrar Pago";
-            button1.UseVisualStyleBackColor = true;
-            // 
-            // txtCódigo
-            // 
-            txtCódigo.Location = new Point(104, 119);
-            txtCódigo.Name = "txtCódigo";
-            txtCódigo.Size = new Size(186, 27);
-            txtCódigo.TabIndex = 4;
+            btnGenerar.Location = new Point(329, 155);
+            btnGenerar.Name = "btnGenerar";
+            btnGenerar.Size = new Size(153, 44);
+            btnGenerar.TabIndex = 3;
+            btnGenerar.Text = "Generar Pago";
+            btnGenerar.UseVisualStyleBackColor = true;
+            btnGenerar.Click += btnGenerar_Click;
             // 
             // btnCarrito
             // 
-            btnCarrito.Location = new Point(505, 375);
+            btnCarrito.Location = new Point(329, 296);
             btnCarrito.Name = "btnCarrito";
             btnCarrito.Size = new Size(153, 44);
             btnCarrito.TabIndex = 6;
             btnCarrito.Text = "Volver al Carrito";
             btnCarrito.UseVisualStyleBackColor = true;
-            // 
-            // btnError
-            // 
-            btnError.Location = new Point(329, 300);
-            btnError.Name = "btnError";
-            btnError.Size = new Size(153, 46);
-            btnError.TabIndex = 7;
-            btnError.Text = "Registro de Errores";
-            btnError.UseVisualStyleBackColor = true;
-            // 
-            // btnEliminar
-            // 
-            btnEliminar.Location = new Point(505, 300);
-            btnEliminar.Name = "btnEliminar";
-            btnEliminar.Size = new Size(153, 46);
-            btnEliminar.TabIndex = 8;
-            btnEliminar.Text = "Eliminar Registro";
-            btnEliminar.UseVisualStyleBackColor = true;
-            btnEliminar.Click += btnEliminar_Click;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Location = new Point(33, 491);
-            label3.Name = "label3";
-            label3.Size = new Size(50, 20);
-            label3.TabIndex = 9;
-            label3.Text = "label3";
+            btnCarrito.Click += btnCarrito_Click_1;
             // 
             // btnAdelante
             // 
@@ -147,22 +102,13 @@
             // 
             // btnLimpiar
             // 
-            btnLimpiar.Location = new Point(329, 375);
+            btnLimpiar.Location = new Point(329, 226);
             btnLimpiar.Name = "btnLimpiar";
             btnLimpiar.Size = new Size(153, 44);
             btnLimpiar.TabIndex = 17;
-            btnLimpiar.Text = "Limpiar Registros";
+            btnLimpiar.Text = "Limpiar";
             btnLimpiar.UseVisualStyleBackColor = true;
             btnLimpiar.Click += btnLimpiar_Click;
-            // 
-            // btnValidar
-            // 
-            btnValidar.Location = new Point(329, 224);
-            btnValidar.Name = "btnValidar";
-            btnValidar.Size = new Size(153, 44);
-            btnValidar.TabIndex = 18;
-            btnValidar.Text = "Validar Pago";
-            btnValidar.UseVisualStyleBackColor = true;
             // 
             // cbxTipo
             // 
@@ -181,24 +127,50 @@
             label4.TabIndex = 20;
             label4.Text = "Tipo de Transacción:";
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(33, 123);
+            label3.Name = "label3";
+            label3.Size = new Size(50, 20);
+            label3.TabIndex = 9;
+            label3.Text = "label3";
+            // 
+            // btnsimulador
+            // 
+            btnsimulador.Location = new Point(329, 368);
+            btnsimulador.Name = "btnsimulador";
+            btnsimulador.Size = new Size(153, 51);
+            btnsimulador.TabIndex = 21;
+            btnsimulador.Text = "Simulador de errores";
+            btnsimulador.UseVisualStyleBackColor = true;
+            btnsimulador.Click += btnsimulador_Click;
+            // 
+            // btnhistorial
+            // 
+            btnhistorial.Location = new Point(329, 445);
+            btnhistorial.Name = "btnhistorial";
+            btnhistorial.Size = new Size(153, 29);
+            btnhistorial.TabIndex = 22;
+            btnhistorial.Text = "Ver historial";
+            btnhistorial.UseVisualStyleBackColor = true;
+            btnhistorial.Click += btnhistorial_Click;
+            // 
             // FormPago
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(684, 522);
+            Controls.Add(btnhistorial);
+            Controls.Add(btnsimulador);
             Controls.Add(label4);
             Controls.Add(cbxTipo);
-            Controls.Add(btnValidar);
             Controls.Add(btnLimpiar);
             Controls.Add(btnAtras);
             Controls.Add(btnAdelante);
             Controls.Add(label3);
-            Controls.Add(btnEliminar);
-            Controls.Add(btnError);
             Controls.Add(btnCarrito);
-            Controls.Add(txtCódigo);
-            Controls.Add(button1);
-            Controls.Add(label2);
+            Controls.Add(btnGenerar);
             Controls.Add(lstLista);
             Controls.Add(label1);
             Name = "FormPago";
@@ -211,18 +183,15 @@
 
         private Label label1;
         private ListBox lstLista;
-        private Label label2;
-        private Button button1;
-        private TextBox txtCódigo;
+        private Button btnGenerar;
         private Button btnCarrito;
-        private Button btnError;
-        private Button btnEliminar;
-        private Label label3;
         private Button btnAdelante;
         private Button btnAtras;
         private Button btnLimpiar;
-        private Button btnValidar;
         private ComboBox cbxTipo;
         private Label label4;
+        private Label label3;
+        private Button btnsimulador;
+        private Button btnhistorial;
     }
 }
