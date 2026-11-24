@@ -1,4 +1,4 @@
-using proyectofinal;
+using semana7Stack.Vistas;
 
 namespace semana7Stack
 {
@@ -13,7 +13,7 @@ namespace semana7Stack
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FormPOS());
+            Application.Run(new Registro_de_Ventas___Pagos());
         }
     }
 }

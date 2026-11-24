@@ -1,0 +1,41 @@
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.sourcelink.json
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.exe
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.deps.json
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.runtimeconfig.json
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.dll
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.pdb
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.dll
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\refint\EF_Estructu_III.dll
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.pdb
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Desafio (1)\Desafio\obj\Debug\net8.0-windows\ref\EF_Estructu_III.dll
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.exe
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.deps.json
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.runtimeconfig.json
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.dll
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\bin\Debug\net8.0-windows\EF_Estructu_III.pdb
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.Properties.Resources.resources
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.csproj.GenerateResource.cache
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.AssemblyInfoInputs.cache
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.AssemblyInfo.cs
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.sourcelink.json
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.dll
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\refint\EF_Estructu_III.dll
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.pdb
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estructu_III.genruntimeconfig.cache
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\ref\EF_Estructu_III.dll
+C:\Users\lvasq\Downloads\Desafio (1)\Desafio (1)\Desafio\obj\Debug\net8.0-windows\EF_Estru.753FDEEC.Up2Date

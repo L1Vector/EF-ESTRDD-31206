@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|c:\\users\\lvasq\\downloads\\desafio (1)\\desafio (1)\\desafio\\vistas\\registro de ventas \u0026 pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|solutionrelative:vistas\\registro de ventas \u0026 pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\vistas\\registro de ventas \u0026 pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|solutionrelative:vistas\\registro de ventas \u0026 pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\vistas\\registro de ventas \u0026 pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|semana7Stack.csproj|solutionrelative:vistas\\registro de ventas \u0026 pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|c:\\users\\lvasq\\downloads\\desafio (1)\\desafio (1)\\desafio\\vistas\\miniqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|solutionrelative:vistas\\miniqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|c:\\users\\lvasq\\downloads\\desafio (1)\\desafio (1)\\desafio\\modulografos\\estructura\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|solutionrelative:modulografos\\estructura\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|c:\\users\\lvasq\\downloads\\desafio (1)\\desafio (1)\\desafio\\vistas\\miniqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|solutionrelative:vistas\\miniqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|c:\\users\\lvasq\\downloads\\desafio (1)\\desafio (1)\\desafio\\modulografos\\algoritmo\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|solutionrelative:modulografos\\algoritmo\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|c:\\users\\lvasq\\downloads\\desafio (1)\\desafio (1)\\desafio\\coordinacionmodulos\\gestorcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536C39EC-900A-4723-AD8B-E92808E29787}|EF_Estructu_III.csproj|solutionrelative:coordinacionmodulos\\gestorcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dijkstra.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\ModuloGrafos\\Algoritmo\\Dijkstra.cs",
+              "RelativeDocumentMoniker": "ModuloGrafos\\Algoritmo\\Dijkstra.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\ModuloGrafos\\Algoritmo\\Dijkstra.cs",
+              "RelativeToolTip": "ModuloGrafos\\Algoritmo\\Dijkstra.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T05:01:18.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiniQR.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\MiniQR.cs",
+              "RelativeDocumentMoniker": "Vistas\\MiniQR.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\MiniQR.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\MiniQR.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T06:33:58.368Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro de Ventas \u0026 Pagos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\Registro de Ventas \u0026 Pagos.cs",
+              "RelativeDocumentMoniker": "Vistas\\Registro de Ventas \u0026 Pagos.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\Registro de Ventas \u0026 Pagos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Registro de Ventas \u0026 Pagos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T22:37:37.818Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiniQR.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\MiniQR.cs",
+              "RelativeDocumentMoniker": "Vistas\\MiniQR.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\MiniQR.cs",
+              "RelativeToolTip": "Vistas\\MiniQR.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwHsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T16:27:52.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro de Ventas \u0026 Pagos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\Registro de Ventas \u0026 Pagos.cs",
+              "RelativeDocumentMoniker": "Vistas\\Registro de Ventas \u0026 Pagos.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\Desafio_Grupo5 (1) (2)\\Desafio_Grupo5 (1) (2)\\Desafio\\Vistas\\Registro de Ventas \u0026 Pagos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Desafio_Grupo5 (1) (2)\\Desafio_Grupo5 (1) (2)\\Desafio\\Vistas\\Registro de Ventas \u0026 Pagos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T09:36:52.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro de Ventas \u0026 Pagos.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\Registro de Ventas \u0026 Pagos.cs",
+              "RelativeDocumentMoniker": "Vistas\\Registro de Ventas \u0026 Pagos.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\Vistas\\Registro de Ventas \u0026 Pagos.cs",
+              "RelativeToolTip": "Vistas\\Registro de Ventas \u0026 Pagos.cs",
+              "ViewState": "AgIAACMDAAAAAAAAAIAwwD4DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T20:54:02.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestorCentral.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\CoordinacionModulos\\GestorCentral.cs",
+              "RelativeDocumentMoniker": "CoordinacionModulos\\GestorCentral.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\CoordinacionModulos\\GestorCentral.cs",
+              "RelativeToolTip": "CoordinacionModulos\\GestorCentral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T20:56:39.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grafo.cs",
+              "DocumentMoniker": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\ModuloGrafos\\Estructura\\Grafo.cs",
+              "RelativeDocumentMoniker": "ModuloGrafos\\Estructura\\Grafo.cs",
+              "ToolTip": "C:\\Users\\lvasq\\Downloads\\Desafio (1)\\Desafio (1)\\Desafio\\ModuloGrafos\\Estructura\\Grafo.cs",
+              "RelativeToolTip": "ModuloGrafos\\Estructura\\Grafo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T15:52:56.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

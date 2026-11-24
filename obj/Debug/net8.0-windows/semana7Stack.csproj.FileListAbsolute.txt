@@ -74,3 +74,268 @@ C:\Users\Usuario\Downloads\semana7Stack\semana7Stack\semana7Stack\obj\Debug\net8
 C:\Users\Usuario\Downloads\semana7Stack\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
 C:\Users\Usuario\Downloads\semana7Stack\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
 C:\Users\Usuario\Downloads\semana7Stack\semana7Stack\semana7Stack\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\lvasq\Downloads\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\lvasq\Downloads\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\lvasq\Downloads\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormPOS.resources
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\lvasq\Downloads\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormPOS.resources
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\Fabricioo\Downloads\Desafio (2)\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.dev.json
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormPOS.resources
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\User\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7S.359ABDAC.Up2Date
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\lvasq\Downloads\Desafio (2) (1)\Desafio (2)\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\LuisC2.0\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Pago_MP (1)\Pago_MP\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormGestionFalloReconexion.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.FormModuloVouchers.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormPago.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (2)\Desafio_Grupo5 (2)\Desafio_Grupo5\Desafio\Desafio\obj\Debug\net8.0-windows\semana7S.359ABDAC.Up2Date
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\Fabricioo\Downloads\Desafio_2\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\Fabricioo\Downloads\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\refint\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.exe
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.deps.json
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.runtimeconfig.json
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\bin\Debug\net8.0-windows\semana7Stack.pdb
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Properties.Resources.resources
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.FormGrafoConectividad.resources
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.MiniQR.resources
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.Vistas.Registro_de_Ventas___Pagos.resources
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.GenerateResource.cache
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfoInputs.cache
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.AssemblyInfo.cs
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.sourcelink.json
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7Stack.genruntimeconfig.cache
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\ref\semana7Stack.dll
+C:\Users\lvasq\Downloads\Desafio_Grupo5 (1) (2)\Desafio_Grupo5 (1) (2)\Desafio\obj\Debug\net8.0-windows\semana7S.359ABDAC.Up2Date
